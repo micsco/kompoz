@@ -1,5 +1,8 @@
 # Kompoz.ai
 
+![GitHub License](https://img.shields.io/github/license/micsco/kompoz)
+
+
 AI-powered markdown editor for writing and editing documents.
 
 ---
